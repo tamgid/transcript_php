@@ -1,0 +1,109 @@
+.a4-size {
+    width: 265mm;
+    height: 370mm;
+    margin: 0 auto;
+    padding: 20mm;
+    box-sizing: border-box;
+}
+
+.page-content {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.roboto-condensed-heading {
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.roboto-slab-desc {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-style: italic;
+}
+
+.abel-regular {
+    font-family: "Abel", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-style: italic;
+}
+
+.exo-2-paragraph {
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.source-code {
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.link {
+    color: cadetblue;
+    text-decoration: underline;
+}
+
+.image-container {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto 10px;
+}
+
+.circular-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-weight: 500;
+}
+
+td {
+    border: 2px solid black;
+    text-align: center;
+}
+
+.title {
+    font-weight: 450;
+}
+
+.inter {
+    font-weight: 400;
+}
+
+.subject {
+    text-align: left;
+    margin-left: 10;
+}
+
+.additional {
+    text-align: left;
+}
+
+.table_row {
+    height: 50px;
+}
+
+.publish {
+    font-weight: 400;
+}
