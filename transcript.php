@@ -25,7 +25,7 @@
     <style>
         .a4-size {
             width: 265mm;
-            height: 350mm;
+            height: 370mm;
             margin: 0 auto;
             padding: 20mm;
             box-sizing: border-box;
@@ -301,7 +301,7 @@
         <div class="row g-5 row-cols-1 row-cols-lg-2" style="margin-top: 5px;">
             <div class="feature col text-left">
                 <div class="title">
-                    <p>Date of Publication of Results :</p>
+                    <p>Date of Publication of Results : 30 January, 2020</p>
                 </div>
             </div>
             <div class="feature col text-center">
